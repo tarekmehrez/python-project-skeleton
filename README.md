@@ -15,6 +15,9 @@ vagrant up
 sudo su -
 cd /example_project
 python setup.py develop
+# make sure imports are working in the example script and the 
+# debug message is printed
+./bin/example_script
 ```
 
 ## Notes
