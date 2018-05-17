@@ -5,7 +5,7 @@ A python project skeleton, to be used as an example to the [bones](https://githu
 
 ## Build status
 
-[![Build Status](https://travis-ci.org/marghidanu/bones.svg?branch=master)](https://travis-ci.org/marghidanu/bones)
+[![Build Status](https://travis-ci.org/marghidanu/bones.svg?branch=master)](https://travis-ci.org/tarekmehrez/python-project-skeleton)
 
 
 ## Get Started
