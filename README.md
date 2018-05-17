@@ -13,6 +13,6 @@ A python project skeleton, to be used as an example to the [bones](https://githu
 ```bash
 vagrant up
 sudo su -
-cd /example-project
+cd /example_project
 python setup.py develop
 ```
