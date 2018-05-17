@@ -16,3 +16,10 @@ sudo su -
 cd /example_project
 python setup.py develop
 ```
+
+## Notes
+
+- This assumes you will be using Vagrant for your development environment, you can still use ```conda``` or ```virtualenv```
+- The used python distribution in the vagrant box is miniconda
+- Tests dir structures just follows the ```example_project``` (src) structure
+- Changes in modules (names or structure) should be reflected in ```setup.py``` 
